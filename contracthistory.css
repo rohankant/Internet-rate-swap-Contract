@@ -1,0 +1,19 @@
+/*CSS for contracthistory.html*/
+
+
+th {
+	color: #096EB6;
+	font-weight: bold;
+	align-self: center;
+
+}
+
+td {
+	line-height: 200%;
+
+
+}
+
+#current_contract{
+	font-weight: bold;
+}
